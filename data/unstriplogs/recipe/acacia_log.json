@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " s ",
+        "sls",
+        " s "
+    ],
+    "key": {
+        "s": "minecraft:stick",
+        "l": "minecraft:stripped_acacia_log"
+    },
+    "result": {
+        "id": "minecraft:acacia_log",
+        "count":1
+    }
+}

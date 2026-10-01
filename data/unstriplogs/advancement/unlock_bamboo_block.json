@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "has_stick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:bamboo"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "unstriplogs:bamboo_block"
+        ]
+    }
+}
