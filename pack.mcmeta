@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 61,
-        "supported_formats": {"min_inclusive": 61, "max_inclusive": 108},
-        "min_format": 61,
-        "max_format": 107.1,
+        "pack_format": 121,
+        "supported_formats": {"min_inclusive": 121, "max_inclusive": 2147483647},
+        "min_format": 121.0,
+        "max_format": 2147483647,
         "description": "Craft unstripped logs using sticks and stripped logs!"
     }
 }
