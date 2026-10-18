@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "has_stick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:stick"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "unstriplogs:wood/poplar_wood"
+        ]
+    }
+}

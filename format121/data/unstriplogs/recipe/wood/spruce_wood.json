@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " s ",
+        "sls",
+        " s "
+    ],
+    "key": {
+        "s": "minecraft:stick",
+        "l": "minecraft:stripped_spruce_wood"
+    },
+    "result": {
+        "id": "minecraft:spruce_wood",
+        "count":1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " s ",
+        "sls",
+        " s "
+    ],
+    "key": {
+        "s": {"item": "minecraft:stick"},
+        "l": {"item": "minecraft:stripped_jungle_wood"}
+    },
+    "result": {
+        "id": "minecraft:jungle_wood",
+        "count":1
+    }
+}
