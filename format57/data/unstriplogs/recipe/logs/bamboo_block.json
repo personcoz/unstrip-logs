@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " s ",
+        "sls",
+        " s "
+    ],
+    "key": {
+        "s": "minecraft:bamboo",
+        "l": "minecraft:stripped_bamboo_block"
+    },
+    "result": {
+        "id": "minecraft:bamboo_block",
+        "count":1
+    }
+}

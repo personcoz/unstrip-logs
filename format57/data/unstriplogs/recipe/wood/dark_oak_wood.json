@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " s ",
+        "sls",
+        " s "
+    ],
+    "key": {
+        "s": "minecraft:stick",
+        "l": "minecraft:stripped_dark_oak_wood"
+    },
+    "result": {
+        "id": "minecraft:dark_oak_wood",
+        "count":1
+    }
+}

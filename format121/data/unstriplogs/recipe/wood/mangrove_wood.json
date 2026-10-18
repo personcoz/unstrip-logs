@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " s ",
+        "sls",
+        " s "
+    ],
+    "key": {
+        "s": "minecraft:stick",
+        "l": "minecraft:stripped_mangrove_wood"
+    },
+    "result": {
+        "id": "minecraft:mangrove_wood",
+        "count":1
+    }
+}
